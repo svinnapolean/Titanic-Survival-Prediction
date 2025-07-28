@@ -1779,4 +1779,4 @@ dump(best_model, 'titanic_model.joblib')
 ```
 ### 📬 Contact
 
-For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or open an issue.
+For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/vincent-napolean-susai) or open an issue.
