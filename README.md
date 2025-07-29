@@ -1050,7 +1050,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 
@@ -1062,7 +1062,7 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![png](images/output_22_0.png)
     
 
 
@@ -1076,7 +1076,7 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![png](images/output_23_0.png)
     
 
 
@@ -1112,7 +1112,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](images/output_25_0.png)
     
 
 
@@ -1125,7 +1125,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](images/output_26_0.png)
     
 
 
@@ -1452,7 +1452,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![png](images/output_30_0.png)
     
 
 
@@ -1777,6 +1777,7 @@ dump(best_model, 'titanic_model.joblib')
 ```python
 
 ```
+
 ### 📬 Contact
 
 For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/vincent-napolean-susai) or open an issue.
